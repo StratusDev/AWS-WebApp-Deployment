@@ -148,15 +148,18 @@ ALB Access:
 
 Confirm the ALB DNS name is accessible.
 Architectural Diagram:-
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/5aac1d58-c5d7-45f1-bc97-a44929d7df70)
+
 
 
 AWS SNS:
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/c3cb6784-7946-49e7-9c36-08b972674d86)
+
 
 
 AWS CloudWatch:
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/a4b5f5a3-a02f-4281-b5b7-aaa322041224)
+
 
 
 
