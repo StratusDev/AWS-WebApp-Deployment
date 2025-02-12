@@ -63,9 +63,13 @@ Run the following commands after SSH into the instance:
 
 sudo su -
 yum install httpd -y
+
 git clone https://github.com/StratusDev/AWS-WebApp-Deployment.git
+
 cp -r AWS-WebApp-Deployment/ /var/www/html
+
 systemctl start httpd
+
 systemctl enable httpd
 
 5. Register a Custom AMI
